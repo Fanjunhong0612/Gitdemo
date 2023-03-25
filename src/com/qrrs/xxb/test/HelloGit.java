@@ -5,5 +5,6 @@ public class HelloGit {
         System.out.println("This is My first GitDemo....");
         System.out.println("Add Git test....");
         System.out.println("This is Third Git test.....");
+        System.out.println("Hello Hot-fix test....");
     }
 }
