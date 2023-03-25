@@ -6,5 +6,6 @@ public class HelloGit {
         System.out.println("Add Git test....");
         System.out.println("This is Third Git test.....");
         System.out.println("Hello Hot-fix test....");
+        System.out.println("master commit2.....");
     }
 }
